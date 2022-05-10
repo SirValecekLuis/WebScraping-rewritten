@@ -1,0 +1,278 @@
+INFO 2022-05-10 21:22:53,111 - Calling get_urls
+INFO 2022-05-10 21:22:54,230 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=62626 has been successfuly processed.
+INFO 2022-05-10 21:22:54,875 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=49957 has been successfuly processed.
+INFO 2022-05-10 21:22:55,455 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=8704 has been successfuly processed.
+INFO 2022-05-10 21:22:56,180 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=47635 has been successfuly processed.
+INFO 2022-05-10 21:22:56,848 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=3632 has been successfuly processed.
+INFO 2022-05-10 21:22:57,958 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=134668 has been successfuly processed.
+INFO 2022-05-10 21:22:58,549 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=198334 has been successfuly processed.
+INFO 2022-05-10 21:22:59,345 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=89447 has been successfuly processed.
+INFO 2022-05-10 21:23:00,043 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=151173 has been successfuly processed.
+INFO 2022-05-10 21:23:00,633 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=210942 has been successfuly processed.
+INFO 2022-05-10 21:23:01,411 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=206119 has been successfuly processed.
+INFO 2022-05-10 21:23:02,221 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=1004 has been successfuly processed.
+INFO 2022-05-10 21:23:02,978 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=129250 has been successfuly processed.
+INFO 2022-05-10 21:23:03,629 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=33943 has been successfuly processed.
+INFO 2022-05-10 21:23:04,198 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=208229 has been successfuly processed.
+INFO 2022-05-10 21:23:04,915 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=9935 has been successfuly processed.
+INFO 2022-05-10 21:23:05,785 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=7554 has been successfuly processed.
+INFO 2022-05-10 21:23:06,503 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=176188 has been successfuly processed.
+INFO 2022-05-10 21:23:07,313 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=88768 has been successfuly processed.
+INFO 2022-05-10 21:23:08,112 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=141784 has been successfuly processed.
+INFO 2022-05-10 21:23:08,977 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=24606 has been successfuly processed.
+INFO 2022-05-10 21:23:09,713 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=55759 has been successfuly processed.
+INFO 2022-05-10 21:23:10,422 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=210926 has been successfuly processed.
+WARNING 2022-05-10 21:23:10,422 - 
+    Suspicious player found!
+
+    User information:
+
+    _________________________________________________________________________________________________________________
+
+    Name: utanchamon
+
+    _________________________________________________________________________________________________________________
+
+    Points: 1025
+
+    _________________________________________________________________________________________________________________
+
+    KD ratio: 1.5
+
+    _________________________________________________________________________________________________________________
+
+    Accuracy: 38.0%
+
+    _________________________________________________________________________________________________________________
+
+    Kills: 9
+
+    _________________________________________________________________________________________________________________
+
+    Headshots: 4
+
+    _________________________________________________________________________________________________________________
+
+    HS ratio: 44.4%
+
+    _________________________________________________________________________________________________________________
+
+    
+    Weapon information:
+
+    _________________________________________________________________________________________________________________
+
+    First: Hits - 62; left - 30.6%; middle - 43.5%; right - 25.8
+
+    _________________________________________________________________________________________________________________
+
+    Sec: Hits - 19; left - 47.4%; middle - 42.1%; right - 10.5
+
+    _________________________________________________________________________________________________________________
+
+    Third: Hits - 9; left - 44.4%; middle - 33.3%; right - 22.2
+
+    _________________________________________________________________________________________________________________
+
+    
+INFO 2022-05-10 21:23:11,208 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=141806 has been successfuly processed.
+INFO 2022-05-10 21:23:12,020 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=36171 has been successfuly processed.
+INFO 2022-05-10 21:23:12,645 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=3512 has been successfuly processed.
+INFO 2022-05-10 21:23:13,331 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=4537 has been successfuly processed.
+INFO 2022-05-10 21:23:13,895 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=205567 has been successfuly processed.
+WARNING 2022-05-10 21:23:13,895 - 
+    Suspicious player found!
+
+    User information:
+
+    _________________________________________________________________________________________________________________
+
+    Name: GO LOCO COCO LOCO !!!
+
+    _________________________________________________________________________________________________________________
+
+    Points: 1462
+
+    _________________________________________________________________________________________________________________
+
+    KD ratio: 0.7125
+
+    _________________________________________________________________________________________________________________
+
+    Accuracy: 10.5%
+
+    _________________________________________________________________________________________________________________
+
+    Kills: 57
+
+    _________________________________________________________________________________________________________________
+
+    Headshots: 26
+
+    _________________________________________________________________________________________________________________
+
+    HS ratio: 45.6%
+
+    _________________________________________________________________________________________________________________
+
+    
+    Weapon information:
+
+    _________________________________________________________________________________________________________________
+
+    First: Hits - 161; left - 41.6%; middle - 39.8%; right - 18.6
+
+    _________________________________________________________________________________________________________________
+
+    Sec: Hits - 97; left - 34.0%; middle - 42.3%; right - 23.7
+
+    _________________________________________________________________________________________________________________
+
+    Third: Hits - 21; left - 14.3%; middle - 61.9%; right - 23.8
+
+    _________________________________________________________________________________________________________________
+
+    
+INFO 2022-05-10 21:23:14,561 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=69007 has been successfuly processed.
+INFO 2022-05-10 21:23:15,269 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=258 has been successfuly processed.
+INFO 2022-05-10 21:23:16,390 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=5716 has been successfuly processed.
+WARNING 2022-05-10 21:23:16,655 - IndexError in weap_html
+WARNING 2022-05-10 21:23:16,906 - IndexError in weap_html
+INFO 2022-05-10 21:23:17,646 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=348 has been successfuly processed.
+INFO 2022-05-10 21:23:18,279 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=14470 has been successfuly processed.
+INFO 2022-05-10 21:23:18,872 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=9586 has been successfuly processed.
+WARNING 2022-05-10 21:23:19,231 - IndexError in weap_html
+INFO 2022-05-10 21:23:19,884 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=64378 has been successfuly processed.
+INFO 2022-05-10 21:29:25,742 - 
+
+
+Calling get_urls
+INFO 2022-05-10 21:29:26,756 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=62626 has been successfuly processed.
+INFO 2022-05-10 21:29:27,294 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=49957 has been successfuly processed.
+INFO 2022-05-10 21:29:27,899 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=8704 has been successfuly processed.
+INFO 2022-05-10 21:29:28,660 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=47635 has been successfuly processed.
+INFO 2022-05-10 21:29:29,242 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=3632 has been successfuly processed.
+INFO 2022-05-10 21:29:30,124 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=134668 has been successfuly processed.
+INFO 2022-05-10 21:29:30,716 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=198334 has been successfuly processed.
+INFO 2022-05-10 21:29:31,282 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=89447 has been successfuly processed.
+INFO 2022-05-10 21:29:31,945 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=151173 has been successfuly processed.
+INFO 2022-05-10 21:29:32,664 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=210942 has been successfuly processed.
+INFO 2022-05-10 21:29:33,292 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=206119 has been successfuly processed.
+INFO 2022-05-10 21:29:34,080 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=1004 has been successfuly processed.
+INFO 2022-05-10 21:29:34,758 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=33943 has been successfuly processed.
+INFO 2022-05-10 21:29:35,256 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=208229 has been successfuly processed.
+INFO 2022-05-10 21:29:35,779 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=205567 has been successfuly processed.
+INFO 2022-05-10 21:29:36,456 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=155308 has been successfuly processed.
+WARNING 2022-05-10 21:29:36,644 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=201497&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+INFO 2022-05-10 21:29:37,247 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=9935 has been successfuly processed.
+INFO 2022-05-10 21:29:37,903 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=176188 has been successfuly processed.
+INFO 2022-05-10 21:29:38,946 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=88768 has been successfuly processed.
+INFO 2022-05-10 21:29:39,722 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=141784 has been successfuly processed.
+INFO 2022-05-10 21:29:41,134 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=24606 has been successfuly processed.
+INFO 2022-05-10 21:29:41,808 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=210926 has been successfuly processed.
+INFO 2022-05-10 21:29:42,380 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=55759 has been successfuly processed.
+INFO 2022-05-10 21:29:43,005 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=3512 has been successfuly processed.
+INFO 2022-05-10 21:29:43,658 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=141806 has been successfuly processed.
+INFO 2022-05-10 21:29:44,203 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=36171 has been successfuly processed.
+INFO 2022-05-10 21:29:44,793 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=4537 has been successfuly processed.
+INFO 2022-05-10 21:29:45,467 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=33836 has been successfuly processed.
+WARNING 2022-05-10 21:29:45,713 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=49650&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+INFO 2022-05-10 21:29:46,248 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=13306 has been successfuly processed.
+INFO 2022-05-10 21:29:46,877 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=202146 has been successfuly processed.
+INFO 2022-05-10 21:29:48,224 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=1161 has been successfuly processed.
+WARNING 2022-05-10 21:29:48,491 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=210975&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+INFO 2022-05-10 21:29:49,097 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=16510 has been successfuly processed.
+INFO 2022-05-10 21:29:49,639 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=210782 has been successfuly processed.
+WARNING 2022-05-10 21:29:49,823 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=210974&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+WARNING 2022-05-10 21:29:50,016 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=210977&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+INFO 2022-05-10 21:29:50,479 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=18866 has been successfuly processed.
+INFO 2022-05-10 21:29:51,022 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=166 has been successfuly processed.
+INFO 2022-05-10 21:29:51,896 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=5716 has been successfuly processed.
+WARNING 2022-05-10 21:29:52,079 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=210968&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+
+
+
+INFO 2022-05-10 21:31:34,971 - Calling get_urls
+INFO 2022-05-10 21:31:36,559 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=62626 has been successfuly processed.
+INFO 2022-05-10 21:31:37,112 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=49957 has been successfuly processed.
+INFO 2022-05-10 21:31:37,766 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=8704 has been successfuly processed.
+INFO 2022-05-10 21:31:38,437 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=47635 has been successfuly processed.
+INFO 2022-05-10 21:31:39,047 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=3632 has been successfuly processed.
+INFO 2022-05-10 21:31:39,629 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=198334 has been successfuly processed.
+INFO 2022-05-10 21:31:40,518 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=134668 has been successfuly processed.
+INFO 2022-05-10 21:31:41,096 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=89447 has been successfuly processed.
+INFO 2022-05-10 21:31:41,617 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=33943 has been successfuly processed.
+INFO 2022-05-10 21:31:42,544 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=206119 has been successfuly processed.
+INFO 2022-05-10 21:31:43,505 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=1004 has been successfuly processed.
+INFO 2022-05-10 21:31:44,123 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=208229 has been successfuly processed.
+INFO 2022-05-10 21:31:45,021 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=155308 has been successfuly processed.
+INFO 2022-05-10 21:31:45,473 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=205567 has been successfuly processed.
+INFO 2022-05-10 21:31:46,110 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=9586 has been successfuly processed.
+INFO 2022-05-10 21:31:46,973 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=9935 has been successfuly processed.
+INFO 2022-05-10 21:31:47,554 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=176188 has been successfuly processed.
+INFO 2022-05-10 21:31:48,238 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=88768 has been successfuly processed.
+INFO 2022-05-10 21:31:49,054 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=141784 has been successfuly processed.
+INFO 2022-05-10 21:31:49,639 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=24606 has been successfuly processed.
+INFO 2022-05-10 21:31:50,457 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=55759 has been successfuly processed.
+INFO 2022-05-10 21:31:51,079 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=210926 has been successfuly processed.
+INFO 2022-05-10 21:31:51,964 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=141806 has been successfuly processed.
+INFO 2022-05-10 21:31:52,778 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=3512 has been successfuly processed.
+INFO 2022-05-10 21:31:53,375 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=36171 has been successfuly processed.
+INFO 2022-05-10 21:31:53,976 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=4537 has been successfuly processed.
+INFO 2022-05-10 21:31:54,569 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=3920 has been successfuly processed.
+WARNING 2022-05-10 21:31:54,780 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=210977&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+INFO 2022-05-10 21:31:55,270 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=18866 has been successfuly processed.
+INFO 2022-05-10 21:31:55,848 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=33836 has been successfuly processed.
+INFO 2022-05-10 21:31:56,332 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=13306 has been successfuly processed.
+WARNING 2022-05-10 21:31:56,503 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=210968&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+INFO 2022-05-10 21:31:57,382 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=1161 has been successfuly processed.
+WARNING 2022-05-10 21:31:57,590 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=210975&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+INFO 2022-05-10 21:31:58,113 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=16510 has been successfuly processed.
+INFO 2022-05-10 21:31:58,638 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=210782 has been successfuly processed.
+WARNING 2022-05-10 21:31:58,849 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=210974&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+INFO 2022-05-10 21:31:59,387 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=10987 has been successfuly processed.
+WARNING 2022-05-10 21:31:59,655 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=210983&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+INFO 2022-05-10 21:32:00,645 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=5716 has been successfuly processed.
+INFO 2022-05-10 21:32:00,646 - Script ended successfuly.
+
+
+
+INFO 2022-05-10 21:35:31,260 - Calling get_urls
+INFO 2022-05-10 21:35:32,258 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=49957 has been successfuly processed.
+INFO 2022-05-10 21:35:32,828 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=62626 has been successfuly processed.
+INFO 2022-05-10 21:35:33,439 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=8704 has been successfuly processed.
+INFO 2022-05-10 21:35:34,446 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=47635 has been successfuly processed.
+INFO 2022-05-10 21:35:35,007 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=198334 has been successfuly processed.
+INFO 2022-05-10 21:35:35,944 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=134668 has been successfuly processed.
+INFO 2022-05-10 21:35:36,565 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=3632 has been successfuly processed.
+INFO 2022-05-10 21:35:37,082 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=89447 has been successfuly processed.
+INFO 2022-05-10 21:35:37,612 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=33943 has been successfuly processed.
+INFO 2022-05-10 21:35:38,127 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=206119 has been successfuly processed.
+INFO 2022-05-10 21:35:38,742 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=1004 has been successfuly processed.
+INFO 2022-05-10 21:35:39,308 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=208229 has been successfuly processed.
+INFO 2022-05-10 21:35:39,961 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=9586 has been successfuly processed.
+INFO 2022-05-10 21:35:40,706 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=210983 has been successfuly processed.
+INFO 2022-05-10 21:35:41,701 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=5716 has been successfuly processed.
+INFO 2022-05-10 21:35:42,277 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=9935 has been successfuly processed.
+INFO 2022-05-10 21:35:42,985 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=88768 has been successfuly processed.
+INFO 2022-05-10 21:35:43,584 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=176188 has been successfuly processed.
+INFO 2022-05-10 21:35:44,328 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=141784 has been successfuly processed.
+INFO 2022-05-10 21:35:45,714 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=141806 has been successfuly processed.
+INFO 2022-05-10 21:35:46,314 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=55759 has been successfuly processed.
+INFO 2022-05-10 21:35:46,939 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=210926 has been successfuly processed.
+INFO 2022-05-10 21:35:47,518 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=4537 has been successfuly processed.
+INFO 2022-05-10 21:35:48,009 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=3920 has been successfuly processed.
+INFO 2022-05-10 21:35:48,576 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=13306 has been successfuly processed.
+WARNING 2022-05-10 21:35:48,808 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=210977&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+INFO 2022-05-10 21:35:49,329 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=18866 has been successfuly processed.
+INFO 2022-05-10 21:35:49,980 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=33836 has been successfuly processed.
+INFO 2022-05-10 21:35:50,610 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=194890 has been successfuly processed.
+INFO 2022-05-10 21:35:51,345 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=155308 has been successfuly processed.
+INFO 2022-05-10 21:35:51,916 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=2339 has been successfuly processed.
+WARNING 2022-05-10 21:35:52,118 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=68222&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+INFO 2022-05-10 21:35:52,768 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=24606 has been successfuly processed.
+WARNING 2022-05-10 21:35:52,938 - IndexError in weap_html, url: https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&type=ajax&game=d2only&tab=weapons&player=210986&killLimit=5&weap_sort=smhits&weap_sortorder=desc#tabweapons
+INFO 2022-05-10 21:35:53,570 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=12459 has been successfuly processed.
+INFO 2022-05-10 21:35:54,073 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=3918 has been successfuly processed.
+INFO 2022-05-10 21:35:54,529 - Player https://ugc-gaming.net/stats/cs/hlstats.php?mode=playerinfo&player=205567 has been successfuly processed.
+INFO 2022-05-10 21:35:54,529 - Script ended successfuly.
